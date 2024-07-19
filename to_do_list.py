@@ -46,4 +46,4 @@ if __name__ == "__main__":
         else:
             print("Invaid choice...")
     
-    print("Thanks you.2")
+    print("Thank you...")
